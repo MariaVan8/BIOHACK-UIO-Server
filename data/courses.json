@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "image": "images/microscope3.jpg",
+    "title": "Basic General Microbiology Course",
+    "time": "Mon - Fri (8:00am-17:00pm)",
+    "tools": "Bring your laptop",
+
+    "topics": [
+      "Culture methods, isolation and seeding of bacteria.",
+      "Food microbiology, cultivation in differential media",
+      "Water microbiology",
+      "Types of staining of bacteria and fungi (Gram, simple, negative)",
+      "Microscope handling and observation",
+      "Cell and colony morphology",
+      "Biochemical tests",
+      "Antibiotic sensitivity and potency tests",
+      "Agar Art."
+    ]
+  },
+  {
+    "id": "2",
+    "image": "images/pipe2.jpg",
+    "title": "Molecular Biology and Immunology Course",
+    "time": "Mon - Fri (8:00am-17:00pm)",
+    "tools": "Bring your laptop",
+    "topics": [
+      "DNA extraction, quantification and quality",
+      "PCR",
+      "Electrophoresis",
+      "Microscopic examination of microalgae and their applications in the industry.",
+      "Protein extraction",
+      "Protein Quantification",
+      "ELISA assays",
+      "Principles of cell culture"
+    ]
+  },
+  {
+    "id": "3",
+    "image": "images/microscope5.jpg",
+    "title": "Course Microbiology in Agroindustry: Production of Bioinputs",
+    "time": "Saturday - Sunday (8:00am-17:00pm)",
+    "tools": "Bring your laptop",
+    "topics": [
+      "Sowing in culture media of soil microorganisms",
+      "Observation of yeasts",
+      "Stomata and mycorrhizal spores",
+      "Preparation of organic fertilizer",
+      "Preparation of substrate",
+      "Insecticide and fungicide",
+      "Antifungal potency test preparation of biofertilizers."
+    ]
+  },
+  {
+    "id": "4",
+    "image": "images/microscope4.jpg",
+    "title": "Hands-on Lab Course!",
+    "tools": "Bring your laptop",
+    "time": "8:00-12:00 pm schedule to choose",
+    "topics": [
+      "Preparation and fixation of smears",
+      "Gram stain",
+      "Simple fungus stain",
+      "Biochemical tests",
+      "Culture medium analysis"
+    ]
+  },
+  {
+    "id": "5",
+    "image": "images/pipe3.jpg",
+    "title": "Continuing School of Microbiology:",
+    "tools": "Bring your laptop",
+    "time": "Tuesday -Friday 8:00-12:00PM",
+    "topics": [
+      "Microalgae Culture",
+      "Sources of Microalgae for cultivation",
+      "Selection of Suitable Strain",
+      "Culture Media",
+      "Types of Culture",
+      "Open and closed reactors",
+      "Harvesting",
+      "Advantages and Challenges using Microalgae",
+      "Biofuels",
+      "Agricultural products",
+      "Molecular analysis",
+      "Applications and products from microalgae",
+      "Culture methods, isolation and seeding of bacteria.",
+      "Food microbiology, cultivation in differential media",
+      "Water microbiology",
+      "Types of staining of bacteria and fungi (Gram, simple, negative)",
+      "Microscope handling and observation",
+      "Cell and colony morphology",
+      "Biochemical tests",
+      "Antibiotic sensitivity and potency tests",
+      "Agar Art."
+    ]
+  }
+]
